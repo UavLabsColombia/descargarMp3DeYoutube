@@ -1,10 +1,14 @@
-DescargarMP3DeYoutube es un script simple que utiliza youtube-dl para descargar el contenido de youtube subministrado en el archivo lista.conf
+
+# DescargarMP3DeYoutube
+es un script simple que utiliza youtube-dl para descargar el contenido de youtube subministrado en el archivo lista.conf
 
 
-Dependencia: youtube-dl Para instalar youtube-dl en su ultima version.
+# Dependencia
+"youtube-dl", Para instalar en su ultima version desde python.
+
 sudo pip install --upgrade youtube_dl
 
-Utiizando el script:
+# Utiizando el script:
 Dentro del directorio config se encuentra el archivo lista.conf el cual debe de contener todas las URL que se desean descargar enlistadas linea a linea
 
 llamar el script que se encuentra dentro de src para inicar el proceso de descarga, recuerda poner los permisos adecuados al archivo para iniciarlo.
