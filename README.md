@@ -2,7 +2,7 @@
 # DescargarMP3DeYoutube
 es un script simple que utiliza youtube-dl para descargar el contenido de youtube subministrado en el archivo lista.conf
 
-#SO
+# SO
 Diseñado para la Familia Debian/Ubuntu
 script probado en Ubuntu 18.04
 
